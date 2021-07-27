@@ -5,3 +5,11 @@
   background-attachment: fixed;
 }
 
+h1 {
+  font-family: 'Rock Salt', cursive;
+  color: black;
+  font-size: 100px;
+  text-align: center;
+  line-height: 450px;
+}
+
