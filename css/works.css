@@ -1,5 +1,13 @@
 body{
   background-color: white;
+h2 {
+  padding-top: 120px;
+  font-family: 'Cinzel', serif;
+  font-size: 40px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
+
 .box {
   border-style: solid;
   background-color: #d7d3c4;
