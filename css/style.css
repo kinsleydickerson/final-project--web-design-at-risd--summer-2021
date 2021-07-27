@@ -32,3 +32,16 @@ ul {
   font-size: 40px;
 }
 
+ul li a {
+  margin: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  float: left;
+  width: 100%;
+}
+
+ul :hover {
+  color: white;
+}
