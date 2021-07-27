@@ -1,2 +1,9 @@
 body{
   background-color: white;
+h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 35px;
+  padding-bottom: 75px;
+  padding-top: 75px;
+  text-align: center;
+}
