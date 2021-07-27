@@ -1,5 +1,17 @@
 body{
   background-color: white;
+.logo {
+  float: left;
+  font-family: 'Rock Salt', cursive;
+  font-size: 35px;
+  padding-top: 30px;
+  margin-left: 15%;
+}
+
+nav {
+  float: right;
+}
+
 nav ol {
   margin: 0;
   padding: 0;
