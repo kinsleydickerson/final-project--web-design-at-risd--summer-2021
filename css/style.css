@@ -13,3 +13,12 @@ h1 {
   line-height: 450px;
 }
 
+h2 {
+  position: absolute;
+  bottom: 275px;
+  text-align: center;
+  width: 100%;
+  font-family: 'Cinzel', serif;
+  color: black;
+  font-size: 55px;
+  border-bottom: 1px;
