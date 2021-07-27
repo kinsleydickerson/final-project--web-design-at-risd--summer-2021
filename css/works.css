@@ -1,5 +1,16 @@
 body{
   background-color: white;
+nav ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 40px;
+}
+
 nav a {
   text-decoration: none;
   color: black;
