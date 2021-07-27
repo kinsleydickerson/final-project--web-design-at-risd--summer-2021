@@ -1,5 +1,14 @@
 body{
   background-color: white;
+p {
+  font-family: 'Lusitana', serif;
+  font-size: 18px;
+  padding-right: 25%;
+  padding-top: 10px;
+  text-indent: 15px;
+  line-height: 25px;
+}
+
 h3 {
   font-family: 'Cinzel', serif;
   font-size: 35px;
