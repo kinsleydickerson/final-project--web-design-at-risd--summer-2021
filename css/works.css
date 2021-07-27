@@ -1,5 +1,9 @@
 body{
   background-color: white;
+nav a:hover {
+  color: white;
+}
+
 h2 {
   padding-top: 120px;
   font-family: 'Cinzel', serif;
