@@ -2,6 +2,11 @@ body{
   background-color: white;
 }
 
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
 header {
   background-image: url(../img/light.jpg);
   height: 100px;
